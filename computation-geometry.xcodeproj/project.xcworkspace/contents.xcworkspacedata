@@ -2,7 +2,25 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../simplePolygon">
+      location = "group:../bin">
+   </FileRef>
+   <FileRef
+      location = "group:../doc">
+   </FileRef>
+   <FileRef
+      location = "group:../include">
+   </FileRef>
+   <FileRef
+      location = "group:../lib">
+   </FileRef>
+   <FileRef
+      location = "group:../spike">
+   </FileRef>
+   <FileRef
+      location = "group:../src">
+   </FileRef>
+   <FileRef
+      location = "group:../test">
    </FileRef>
    <FileRef
       location = "self:">
